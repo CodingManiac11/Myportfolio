@@ -49,7 +49,7 @@ window.addEventListener('scroll', () => {
 });
 
 // Typewriter Effect for Hero Section
-const text = "Aspiring Software Engineer";
+const text = "Aspiring Software Developer";
 const heroTitle = document.querySelector('.hero h2');
 let i = 0;
 
